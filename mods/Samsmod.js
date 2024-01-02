@@ -4,6 +4,6 @@ elements.HighMeltPoint = {
 	categpry: "solids",
 	temphigh: 10000,
 	statelow: "molten_iron",
-	density:1.7
+	density:1.7,
 	temp: 0
 }
